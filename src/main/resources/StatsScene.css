@@ -1,0 +1,22 @@
+VBox {
+    -fx-alignment: center;
+    -fx-spacing: 15;
+    -fx-padding: 50;
+}
+
+HBox {
+    -fx-alignment: center;
+    -fx-spacing: 30;
+}
+
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    -fx-font-size: 14;
+}
+
+Text {
+    -fx-font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    -fx-font-size: 14;
+}

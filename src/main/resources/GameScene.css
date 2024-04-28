@@ -1,0 +1,9 @@
+Scene {
+    -fx-min-width: 180;
+}
+
+VBox {
+    -fx-alignment: center;
+    -fx-spacing: 40;
+    -fx-padding: 50;
+}

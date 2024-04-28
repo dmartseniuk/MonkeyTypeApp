@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Local
+2024-04-27---18-44-03.txt
+2024-04-27---20-01-12.txt
+2024-04-27---20-01-46.txt
+2024-04-27---20-06-54.txt
